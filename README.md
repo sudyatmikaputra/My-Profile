@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Putra</h1>
-<h3 align="center">A passionate coder from Indonesia</h3>
+<h3 align="center">A passionate coder from Denpasar, Bali</h3>
 
 - 🔭 I’m currently working on **green tint bot**
 
