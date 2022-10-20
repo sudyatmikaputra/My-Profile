@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **green tint bot**
 
-- 🌱 I’m currently learning **DevOps from IDCamp, Google IT Support and React Framework on Coursera, Google Cloud Platform and AWS**
+- 🌱 I’m currently learning **Google IT Support and React Framework on Coursera, Google Cloud Platform and AWS**
 
 - 👨‍💻 All of my projects are available at [sudyatmikaputra.000webhostapp.com](https://sudyatmikaputra.000webhostapp.com/)
 
